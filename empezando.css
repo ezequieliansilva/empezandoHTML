@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: red;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
