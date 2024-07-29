@@ -23,3 +23,8 @@ th, td {
     padding: 10px;
     text-align: left;
 }
+
+#perritoEjemplo {
+    width: 300px;
+    height: 200px;
+}
